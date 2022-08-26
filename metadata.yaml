@@ -1,0 +1,33 @@
+_repo: Het-leemen-wagentje-Indisch-tooneelspel-uit-Sanskrt-en-Prakrt-in-het-Nederlandsch-vertaald_68819
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vogel, Jean Philippe
+    gutenberg_agent_id: '54960'
+    url: http://www.gutenberg.org/2009/agents/54960
+creator:
+  author:
+    agent_name: Shūdraka
+    gutenberg_agent_id: '54959'
+    url: http://www.gutenberg.org/2009/agents/54959
+description: ''
+gutenberg_issued: '2022-08-23'
+identifiers:
+  gutenberg: '68819'
+language: nl
+pgterms:marc904: https://archive.org/details/hetleemenwagentj00sdrauoft
+pgterms:marc905: 20180120041214vogel
+pgterms:marc906: '1897'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: Netherlands :Scheltema & Holkema's Boekhandel,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Het leemen wagentje: Indisch tooneelspel uit Sanskṛt en Prākṛt in het Nederlandsch
+  vertaald'
+url: http://www.gutenberg.org/ebooks/68819
