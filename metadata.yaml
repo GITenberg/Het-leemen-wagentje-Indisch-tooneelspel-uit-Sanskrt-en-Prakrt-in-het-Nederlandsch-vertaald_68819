@@ -5,12 +5,17 @@ contributor:
     agent_name: Vogel, Jean Philippe
     gutenberg_agent_id: '54960'
     url: http://www.gutenberg.org/2009/agents/54960
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shūdraka
     gutenberg_agent_id: '54959'
     url: http://www.gutenberg.org/2009/agents/54959
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68819#Het-leemen-wagentje-Indisch-tooneelspel-uit-Sanskrt-en-Prakrt-in-het-Nederlandsch-vertaald
 gutenberg_issued: '2022-08-23'
 identifiers:
   gutenberg: '68819'
